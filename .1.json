@@ -4,5 +4,14 @@
   "artist": "none",
   "author": "none",
   "cover": "https://cmoa.akamaized.net/data/image/title/title_0000368461/VOLUME/100003684610006.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1790187455",
+      "groups": {
+        "Tukii no fansub": "/proxy/api/imgchest/chapter/wl7lvvlv3yx"
+      }
+    }
+  }
 }
