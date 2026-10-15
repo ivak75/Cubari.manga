@@ -4,5 +4,38 @@
   "artist": "None",
   "author": "None ",
   "cover": "https://kokomangas.com/wp-content/uploads/2026/08/76RQ2-714x1024.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1 ",
+      "volume": "1",
+      "last_updated": "1792084909",
+      "groups": {
+        "Tukii no fansub": "/proxy/api/imgchest/chapter/ne7bex8jj75"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1792084951",
+      "groups": {
+        "Tukii no fansub": "/proxy/api/imgchest/chapter/9rydgpv8ayk"
+      }
+    },
+    "3": {
+      "title": "Chaptar 3",
+      "volume": "1",
+      "last_updated": "1792084997",
+      "groups": {
+        "Tukii no fansub": "/proxy/api/imgchest/chapter/a846egvbzyx"
+      }
+    },
+    "4": {
+      "title": "Chapter 4 ",
+      "volume": "1",
+      "last_updated": "1792085143",
+      "groups": {
+        "Tukii no fansub": "/proxy/api/imgchest/chapter/92498joqbyn"
+      }
+    }
+  }
 }
